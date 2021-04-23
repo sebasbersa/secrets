@@ -1,0 +1,3 @@
+client id: 693123446693-c5rrv174ahi932ht0713o5vfa4stdkkt.apps.googleusercontent.com
+
+secret cliente: -aRGwCIuOtWcAgxpwu3WUkKt
